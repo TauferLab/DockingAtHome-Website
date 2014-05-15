@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#dropmenudiv {
+	border: 1px solid black;
+	border-bottom-width: 0;
+	font-size: 14px;
+	line-height: 22px;
+	position: absolute;
+	z-index: 100;
+}
+
+#dropmenudiv a {
+	border-bottom: 1px solid black;
+	display: block;
+	padding: 1px 0;
+	text-decoration: none;
+	text-indent: 5px;
+	width: 100%;
+}
+
+#dropmenudiv a:hover {
+	background-color: #3AC2F1;
+}
+

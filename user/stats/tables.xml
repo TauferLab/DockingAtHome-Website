@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<tables>
+    <update_time>1399908375</update_time>
+    <nusers_total>36143</nusers_total>
+    <nteams_total>1162</nteams_total>
+    <nhosts_total>190728</nhosts_total>
+    <total_credit>5560563392.360776</total_credit>
+    <applications>
+        <application>
+            <name>Charmm</name>
+        </application>
+        <application>
+            <name>Charmm with screensaver</name>
+        </application>
+        <application>
+            <name>Charmm 32a21</name>
+        </application>
+        <application>
+            <name>Charmm 34a2</name>
+        </application>
+    </applications>
+</tables>

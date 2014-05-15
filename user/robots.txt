@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /account/
+Disallow: /am_
+Disallow: /result
+Disallow: /community/
+Disallow: /workunit
