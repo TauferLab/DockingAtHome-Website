@@ -26,7 +26,7 @@ if ($user) {
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js"></script>
 	<script type="text/javascript" src="js/jquery.cookie.js"></script>
 	<script type="text/javascript" src="js/control.js"></script>
 	<script type="text/javascript" src="js/dynamicDropDown2.js"></script>
